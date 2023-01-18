@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.exe
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.deps.json
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.json
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\dimit\source\repos\Exercise-Multidimensional Arrays\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.genruntimeconfig.cache
