@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\bin\Debug\netcoreapp3.1\04-EvenTimes.exe
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\bin\Debug\netcoreapp3.1\04-EvenTimes.deps.json
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\bin\Debug\netcoreapp3.1\04-EvenTimes.runtimeconfig.json
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\bin\Debug\netcoreapp3.1\04-EvenTimes.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\bin\Debug\netcoreapp3.1\04-EvenTimes.dll
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\bin\Debug\netcoreapp3.1\04-EvenTimes.pdb
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\obj\Debug\netcoreapp3.1\04-EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\obj\Debug\netcoreapp3.1\04-EvenTimes.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\obj\Debug\netcoreapp3.1\04-EvenTimes.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\obj\Debug\netcoreapp3.1\04-EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\obj\Debug\netcoreapp3.1\04-EvenTimes.dll
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\obj\Debug\netcoreapp3.1\04-EvenTimes.pdb
+C:\Users\dimit\source\repos\Sets and Dictionaries Advanced - Exercise\04-EvenTimes\obj\Debug\netcoreapp3.1\04-EvenTimes.genruntimeconfig.cache
