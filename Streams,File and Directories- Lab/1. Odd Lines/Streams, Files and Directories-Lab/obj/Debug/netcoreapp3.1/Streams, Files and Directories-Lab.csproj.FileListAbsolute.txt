@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.exe
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.deps.json
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.runtimeconfig.json
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.dll
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.pdb
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.dll
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.pdb
+C:\Users\dimit\source\repos\Streams, Files and Directories-Lab\Streams, Files and Directories-Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories-Lab.genruntimeconfig.cache
