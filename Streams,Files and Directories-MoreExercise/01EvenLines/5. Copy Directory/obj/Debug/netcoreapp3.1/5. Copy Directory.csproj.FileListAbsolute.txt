@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.exe
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.deps.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.runtimeconfig.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.dll
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\bin\Debug\netcoreapp3.1\5. Copy Directory.pdb
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.dll
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.pdb
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\5. Copy Directory\obj\Debug\netcoreapp3.1\5. Copy Directory.genruntimeconfig.cache
