@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.exe
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.deps.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.runtimeconfig.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.dll
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.pdb
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.dll
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.pdb
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.genruntimeconfig.cache

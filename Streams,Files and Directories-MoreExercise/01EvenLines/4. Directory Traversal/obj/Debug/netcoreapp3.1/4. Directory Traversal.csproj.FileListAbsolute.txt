@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.exe
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.deps.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.runtimeconfig.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.dll
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\bin\Debug\netcoreapp3.1\4. Directory Traversal.pdb
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.dll
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.pdb
+C:\Users\dimit\source\repos\Streams,Files and Directories-Exercisse\4. Directory Traversal\obj\Debug\netcoreapp3.1\4. Directory Traversal.genruntimeconfig.cache
