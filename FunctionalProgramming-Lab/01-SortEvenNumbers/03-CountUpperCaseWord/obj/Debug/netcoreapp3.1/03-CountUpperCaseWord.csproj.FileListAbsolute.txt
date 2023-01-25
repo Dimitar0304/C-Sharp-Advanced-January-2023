@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\bin\Debug\netcoreapp3.1\03-CountUpperCaseWord.exe
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\bin\Debug\netcoreapp3.1\03-CountUpperCaseWord.deps.json
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\bin\Debug\netcoreapp3.1\03-CountUpperCaseWord.runtimeconfig.json
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\bin\Debug\netcoreapp3.1\03-CountUpperCaseWord.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\bin\Debug\netcoreapp3.1\03-CountUpperCaseWord.dll
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\bin\Debug\netcoreapp3.1\03-CountUpperCaseWord.pdb
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\obj\Debug\netcoreapp3.1\03-CountUpperCaseWord.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\obj\Debug\netcoreapp3.1\03-CountUpperCaseWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\obj\Debug\netcoreapp3.1\03-CountUpperCaseWord.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\obj\Debug\netcoreapp3.1\03-CountUpperCaseWord.AssemblyInfo.cs
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\obj\Debug\netcoreapp3.1\03-CountUpperCaseWord.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\obj\Debug\netcoreapp3.1\03-CountUpperCaseWord.dll
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\obj\Debug\netcoreapp3.1\03-CountUpperCaseWord.pdb
+C:\Users\dimit\source\repos\FunctionalProgramming\03-CountUpperCaseWord\obj\Debug\netcoreapp3.1\03-CountUpperCaseWord.genruntimeconfig.cache
