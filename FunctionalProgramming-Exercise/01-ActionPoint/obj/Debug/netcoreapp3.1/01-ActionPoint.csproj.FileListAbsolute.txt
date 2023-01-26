@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\bin\Debug\netcoreapp3.1\01-ActionPoint.exe
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\bin\Debug\netcoreapp3.1\01-ActionPoint.deps.json
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\bin\Debug\netcoreapp3.1\01-ActionPoint.runtimeconfig.json
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\bin\Debug\netcoreapp3.1\01-ActionPoint.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\bin\Debug\netcoreapp3.1\01-ActionPoint.dll
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\bin\Debug\netcoreapp3.1\01-ActionPoint.pdb
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\obj\Debug\netcoreapp3.1\01-ActionPoint.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\obj\Debug\netcoreapp3.1\01-ActionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\obj\Debug\netcoreapp3.1\01-ActionPoint.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\obj\Debug\netcoreapp3.1\01-ActionPoint.AssemblyInfo.cs
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\obj\Debug\netcoreapp3.1\01-ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\obj\Debug\netcoreapp3.1\01-ActionPoint.dll
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\obj\Debug\netcoreapp3.1\01-ActionPoint.pdb
+C:\Users\dimit\source\repos\FunctionalProgramming-Exercise\01-ActionPoint\obj\Debug\netcoreapp3.1\01-ActionPoint.genruntimeconfig.cache
