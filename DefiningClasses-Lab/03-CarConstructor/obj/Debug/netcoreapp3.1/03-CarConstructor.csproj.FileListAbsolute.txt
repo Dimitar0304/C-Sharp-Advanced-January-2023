@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\bin\Debug\netcoreapp3.1\03-CarConstructor.exe
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\bin\Debug\netcoreapp3.1\03-CarConstructor.deps.json
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\bin\Debug\netcoreapp3.1\03-CarConstructor.runtimeconfig.json
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\bin\Debug\netcoreapp3.1\03-CarConstructor.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\bin\Debug\netcoreapp3.1\03-CarConstructor.dll
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\bin\Debug\netcoreapp3.1\03-CarConstructor.pdb
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\obj\Debug\netcoreapp3.1\03-CarConstructor.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\obj\Debug\netcoreapp3.1\03-CarConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\obj\Debug\netcoreapp3.1\03-CarConstructor.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\obj\Debug\netcoreapp3.1\03-CarConstructor.AssemblyInfo.cs
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\obj\Debug\netcoreapp3.1\03-CarConstructor.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\obj\Debug\netcoreapp3.1\03-CarConstructor.dll
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\obj\Debug\netcoreapp3.1\03-CarConstructor.pdb
+C:\Users\dimit\source\repos\DefiningClasses-Lab\03-CarConstructor\obj\Debug\netcoreapp3.1\03-CarConstructor.genruntimeconfig.cache
