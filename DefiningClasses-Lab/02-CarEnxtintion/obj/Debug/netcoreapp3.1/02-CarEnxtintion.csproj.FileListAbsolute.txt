@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\bin\Debug\netcoreapp3.1\02-CarEnxtintion.exe
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\bin\Debug\netcoreapp3.1\02-CarEnxtintion.deps.json
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\bin\Debug\netcoreapp3.1\02-CarEnxtintion.runtimeconfig.json
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\bin\Debug\netcoreapp3.1\02-CarEnxtintion.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\bin\Debug\netcoreapp3.1\02-CarEnxtintion.dll
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\bin\Debug\netcoreapp3.1\02-CarEnxtintion.pdb
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\obj\Debug\netcoreapp3.1\02-CarEnxtintion.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\obj\Debug\netcoreapp3.1\02-CarEnxtintion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\obj\Debug\netcoreapp3.1\02-CarEnxtintion.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\obj\Debug\netcoreapp3.1\02-CarEnxtintion.AssemblyInfo.cs
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\obj\Debug\netcoreapp3.1\02-CarEnxtintion.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\obj\Debug\netcoreapp3.1\02-CarEnxtintion.dll
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\obj\Debug\netcoreapp3.1\02-CarEnxtintion.pdb
+C:\Users\dimit\source\repos\DefiningClasses-Lab\02-CarEnxtintion\obj\Debug\netcoreapp3.1\02-CarEnxtintion.genruntimeconfig.cache
