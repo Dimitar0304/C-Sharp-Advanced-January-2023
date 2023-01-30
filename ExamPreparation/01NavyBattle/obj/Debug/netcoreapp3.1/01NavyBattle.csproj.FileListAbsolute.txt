@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\bin\Debug\netcoreapp3.1\01NavyBattle.exe
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\bin\Debug\netcoreapp3.1\01NavyBattle.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\bin\Debug\netcoreapp3.1\01NavyBattle.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\bin\Debug\netcoreapp3.1\01NavyBattle.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\bin\Debug\netcoreapp3.1\01NavyBattle.dll
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\bin\Debug\netcoreapp3.1\01NavyBattle.pdb
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\obj\Debug\netcoreapp3.1\01NavyBattle.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\obj\Debug\netcoreapp3.1\01NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\obj\Debug\netcoreapp3.1\01NavyBattle.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\obj\Debug\netcoreapp3.1\01NavyBattle.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\obj\Debug\netcoreapp3.1\01NavyBattle.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\obj\Debug\netcoreapp3.1\01NavyBattle.dll
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\obj\Debug\netcoreapp3.1\01NavyBattle.pdb
+C:\Users\dimit\source\repos\ExamPreparation\01NavyBattle\obj\Debug\netcoreapp3.1\01NavyBattle.genruntimeconfig.cache
