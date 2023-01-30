@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace _10._Radioactive_Mutant_Vampire_Bunnies
@@ -46,6 +47,7 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
                 {
                     if (matrix[row, col] == 'P')
                     {
+
                         startRow = row;
                         startCol = col;
                     }
@@ -56,202 +58,159 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
 
 
             string commands = Console.ReadLine();
-            for (int i = 0; i < commands.Length; i++)
+            Queue<char> commandBox = new Queue<char>(commands);
+            
+            while (commandBox.Count!=0&&isThePlayerDied!=true)
             {
+                char currentCommand = commandBox.Dequeue();
+                //command is Up
+                if (currentCommand == 'U' && currentRow - 1 >= 0)
+                {
+                    matrix[currentRow, currentCol] = '.';
+                    currentRow--;
+                    if (matrix[currentRow , currentCol] == 'B')
+                    {
+                        matrix[currentRow, currentCol] = 'B';
+                        isThePlayerDied = true;
+                        
+                    }
+                    else
+                    {
+                        matrix[currentRow, currentCol] = 'P';
+                    }
+                }
+
+                //command is Down
+                else if (currentCommand == 'D' && currentRow + 1 < matrix.GetLength(0))
+                {
+                    matrix[currentRow, currentCol] = '.';
+                    currentRow++;
+                    if (matrix[currentRow , currentCol] == 'B')
+                    {
+                        matrix[currentRow, currentCol] = 'B';
+                        isThePlayerDied = true;
+                        
+                    }
+                    else
+                    {
+                        matrix[currentRow, currentCol] = 'P';
+                    }
+                }
+                //command is Left
+                else if (currentCommand == 'L' &&  currentCol - 1 >= 0)
+                {
+                    matrix[currentRow, currentCol] = '.';
+                    currentCol--;
+                    if (matrix[currentRow, currentCol ] == 'B')
+                    {
+                        matrix[currentRow, currentCol] = 'B';
+                        isThePlayerDied = true;
+                       
+                    }
+                    else
+                    {
+                        matrix[currentRow, currentCol] = 'P';
+                    }
+                }
+                //command is right
+                else if (currentCommand == 'R' &&  currentCol+1 < matrix.GetLength(1))
+                {
+                    matrix[currentRow, currentCol] = '.';
+                    currentCol++;
+                    if (matrix[currentRow, currentCol ] == 'B')
+                    {
+                        matrix[currentRow, currentCol] = 'B';
+                        isThePlayerDied = true;
+                      
+                    }
+                    else
+                    {
+                        matrix[currentRow, currentCol] = 'P';
+                    }
+                   
+                }
+               
+                     matrix = BunniesSpread(matrix, isThePlayerDied);
                 
-                char currenDirection = commands[i];
-                if (currenDirection == 'U' && isThePlayerDied == false)
-                {
-                    if (currentRow - 1 >= 0 & matrix[currentRow - 1, currentCol] != 'B')
-                    {
-                        matrix[currentRow, currentCol] = '.';
-                        matrix[currentRow - 1, currentCol] = 'P';
-                        currentRow--;
 
-
-
-                    }
-                    else 
-                    {
-                        isThePlayerDied = true;
-                        break;
-
-                    }
-                    if (isThePlayerDied == true)
-                    {
-                        break;
-                    }
-                    BunniesSpread(matrix, isThePlayerDied);
-
-
-                }
-                if (currenDirection == 'R' && isThePlayerDied == false)
-                {
-                    if (currentCol + 1 < matrix.GetLength(1) && matrix[currentRow, currentCol + 1] != 'B')
-                    {
-                        matrix[currentRow, currentCol] = '.';
-                        matrix[currentRow, currentCol + 1] = 'P';
-                        currentCol++;
-                    }
-                    else
-                    {
-                        isThePlayerDied = true;
-                        break;
-
-                    }
-                    if (isThePlayerDied == true)
-                    {
-                        break;
-                    }
-                    BunniesSpread(matrix, isThePlayerDied);
-                }
-                if (currenDirection == 'L' && isThePlayerDied == false)
-                {
-                    if (currentCol - 1 >= 0 && matrix[currentRow, currentCol - 1] != 'B')
-                    {
-                        matrix[currentRow, currentCol] = '.';
-                        matrix[currentRow, currentCol - 1] = 'P';
-                        currentCol--;
-
-                    }
-                    else
-                    {
-                        isThePlayerDied = true;
-                        break;
-                    }
-                    if (isThePlayerDied == true)
-                    {
-                        break;
-                    }
-                    BunniesSpread(matrix, isThePlayerDied);
-                }
-                if (currenDirection == 'D' && isThePlayerDied == false)
-                {
-                    if (currentRow + 1 < matrix.GetLength(0) && matrix[currentRow + 1, currentCol] != 'B')
-                    {
-                        matrix[currentRow, currentCol] = '.';
-                        matrix[currentRow + 1, currentCol] = 'P';
-                        currentRow++;
-
-                    }
-                    else
-                    {
-                        isThePlayerDied = true;
-                        break;
-                    }
-                    if (isThePlayerDied == true)
-                    {
-                        break;
-                    }
-                    BunniesSpread(matrix, isThePlayerDied);
-                }
-
+               
+                
             }
-            for (int row = 0; row < rows; row++)
+            matrix[currentRow, currentCol] = '.';
+
+            PrintLair(matrix);
+            if (isThePlayerDied != true)
             {
-
-                for (int col = 0; col < cols; col++)
-                {
-                    if (matrix[row, col] == 'P')
-                    {
-                        matrix[row, col] = '.';
-                    }
-                }
-            }
-
-            for (int row = 0; row < rows; row++)
-            {
-
-                for (int col = 0; col < cols; col++)
-                {
-                    Console.Write(matrix[row, col]);
-                }
-                Console.WriteLine();
-            }
-            if (isThePlayerDied == true)
-            {
-
+               
                 Console.WriteLine($"won: {currentRow} {currentCol}");
             }
             else
             {
                 Console.WriteLine($"dead: {currentRow} {currentCol}");
             }
+            
         }
 
+       
+        
+       
+        public  static char[,] BunniesSpread(char[,] matrix, bool isThePlayerDied)
+        {
+
+            char[,] newMatrix = new char[matrix.GetLength(0), matrix.GetLength(1)];
+
+            for (int row = 0; row < matrix.GetLength(0); row++)
+            {
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    newMatrix[row, col] = matrix[row, col];
+                }
+            }
+            for (int row = 0; row < matrix.GetLength(0); row++)
+            {
+                
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    if (matrix[row, col] == 'B')
+                    {
+                        if (row > 0) //up
+                        {
+                            newMatrix[row - 1, col] = 'B';
+                        }
+                        if (row < matrix.GetLength(0) - 1) //down
+                        {
+                            newMatrix[row + 1, col] = 'B';
+                        }
+                        if (col > 0) //left
+                        {
+                            newMatrix[row, col - 1] = 'B';
+                        }
+                        if (col < matrix.GetLength(1) - 1) //right
+                        {
+                            newMatrix[row, col + 1] = 'B';
+                        }
 
 
-        public static void BunniesSpread(char[,] matrix, bool isThePlayerDied)
+                    }
+                   
+               
+
+                }
+            }
+
+            return newMatrix;
+        }
+
+        public static void PrintLair(char[,]matrix)
         {
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
 
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    if (matrix[row, col] == 'B')
-                    {
-                        //up add bunny
-                        if (row - 1 >= 0)
-                        {
-                            if (matrix[row - 1, col] != 'P')
-                            {
-                                matrix[row - 1, col] = 'B';
-                            }
-                            else
-                            {
-                                matrix[row - 1, col] = 'B';
-                                isThePlayerDied = true;
-                                break;
-                            }
-
-                        }
-                        //down add bunny
-                        if (row + 1 < matrix.GetLength(0))
-                        {
-                            if (matrix[row + 1, col] != 'P')
-                            {
-                                matrix[row + 1, col] = 'B';
-                            }
-                            else
-                            {
-                                matrix[row - 1, col] = 'B';
-                                isThePlayerDied = true;
-                                break;
-                            }
-
-                        }
-                        //right add B
-                        if (col + 1 < matrix.GetLength(1))
-                        {
-                            if (matrix[row, col + 1] != 'P')
-                            {
-                                matrix[row, col + 1] = 'B';
-                            }
-                            else
-                            {
-                                matrix[row - 1, col] = 'B';
-                                isThePlayerDied = true;
-                                break;
-                            }
-
-                        }
-                        //left add B
-                        if (col - 1 >= 0)
-                        {
-                            if (matrix[row, col - 1] != 'P')
-                            {
-                                matrix[row, col - 1] = 'B';
-                            }
-                            else
-                            {
-                                matrix[row - 1, col] = 'B';
-                                isThePlayerDied = true;
-                                break;
-                            }
-
-                        }
-                    }
+                    Console.Write(matrix[row, col]);
                 }
+                Console.WriteLine();
             }
         }
     }
