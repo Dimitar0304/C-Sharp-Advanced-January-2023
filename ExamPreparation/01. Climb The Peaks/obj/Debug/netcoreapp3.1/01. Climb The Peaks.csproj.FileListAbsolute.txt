@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\bin\Debug\netcoreapp3.1\01. Climb The Peaks.exe
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\bin\Debug\netcoreapp3.1\01. Climb The Peaks.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\bin\Debug\netcoreapp3.1\01. Climb The Peaks.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\bin\Debug\netcoreapp3.1\01. Climb The Peaks.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\bin\Debug\netcoreapp3.1\01. Climb The Peaks.dll
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\bin\Debug\netcoreapp3.1\01. Climb The Peaks.pdb
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\obj\Debug\netcoreapp3.1\01. Climb The Peaks.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\obj\Debug\netcoreapp3.1\01. Climb The Peaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\obj\Debug\netcoreapp3.1\01. Climb The Peaks.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\obj\Debug\netcoreapp3.1\01. Climb The Peaks.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\obj\Debug\netcoreapp3.1\01. Climb The Peaks.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\obj\Debug\netcoreapp3.1\01. Climb The Peaks.dll
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\obj\Debug\netcoreapp3.1\01. Climb The Peaks.pdb
+C:\Users\dimit\source\repos\ExamPreparation\01. Climb The Peaks\obj\Debug\netcoreapp3.1\01. Climb The Peaks.genruntimeconfig.cache
