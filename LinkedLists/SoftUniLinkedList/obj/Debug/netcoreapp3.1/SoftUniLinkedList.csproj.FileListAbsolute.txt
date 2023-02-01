@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\bin\Debug\netcoreapp3.1\SoftUniLinkedList.exe
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\bin\Debug\netcoreapp3.1\SoftUniLinkedList.deps.json
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\bin\Debug\netcoreapp3.1\SoftUniLinkedList.runtimeconfig.json
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\bin\Debug\netcoreapp3.1\SoftUniLinkedList.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\bin\Debug\netcoreapp3.1\SoftUniLinkedList.dll
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\bin\Debug\netcoreapp3.1\SoftUniLinkedList.pdb
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\obj\Debug\netcoreapp3.1\SoftUniLinkedList.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\obj\Debug\netcoreapp3.1\SoftUniLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\obj\Debug\netcoreapp3.1\SoftUniLinkedList.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\obj\Debug\netcoreapp3.1\SoftUniLinkedList.AssemblyInfo.cs
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\obj\Debug\netcoreapp3.1\SoftUniLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\obj\Debug\netcoreapp3.1\SoftUniLinkedList.dll
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\obj\Debug\netcoreapp3.1\SoftUniLinkedList.pdb
+C:\Users\dimit\source\repos\WorkShop\SoftUniLinkedList\obj\Debug\netcoreapp3.1\SoftUniLinkedList.genruntimeconfig.cache
