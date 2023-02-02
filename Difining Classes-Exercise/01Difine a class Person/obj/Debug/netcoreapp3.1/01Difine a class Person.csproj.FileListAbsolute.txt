@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\bin\Debug\netcoreapp3.1\01Difine a class Person.exe
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\bin\Debug\netcoreapp3.1\01Difine a class Person.deps.json
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\bin\Debug\netcoreapp3.1\01Difine a class Person.runtimeconfig.json
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\bin\Debug\netcoreapp3.1\01Difine a class Person.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\bin\Debug\netcoreapp3.1\01Difine a class Person.dll
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\bin\Debug\netcoreapp3.1\01Difine a class Person.pdb
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\obj\Debug\netcoreapp3.1\01Difine a class Person.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\obj\Debug\netcoreapp3.1\01Difine a class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\obj\Debug\netcoreapp3.1\01Difine a class Person.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\obj\Debug\netcoreapp3.1\01Difine a class Person.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\obj\Debug\netcoreapp3.1\01Difine a class Person.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\obj\Debug\netcoreapp3.1\01Difine a class Person.dll
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\obj\Debug\netcoreapp3.1\01Difine a class Person.pdb
+C:\Users\dimit\source\repos\Difining Classes-Exercise\01Difine a class Person\obj\Debug\netcoreapp3.1\01Difine a class Person.genruntimeconfig.cache
