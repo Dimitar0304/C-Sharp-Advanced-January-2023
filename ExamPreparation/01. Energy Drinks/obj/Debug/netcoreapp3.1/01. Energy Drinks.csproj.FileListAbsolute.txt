@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.exe
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.dll
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.pdb
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.dll
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.pdb
+C:\Users\dimit\source\repos\ExamPreparation\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\bin\Debug\netcoreapp3.1\03. Shoe Store.exe
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\bin\Debug\netcoreapp3.1\03. Shoe Store.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\bin\Debug\netcoreapp3.1\03. Shoe Store.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\bin\Debug\netcoreapp3.1\03. Shoe Store.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\bin\Debug\netcoreapp3.1\03. Shoe Store.dll
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\bin\Debug\netcoreapp3.1\03. Shoe Store.pdb
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\obj\Debug\netcoreapp3.1\03. Shoe Store.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\obj\Debug\netcoreapp3.1\03. Shoe Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\obj\Debug\netcoreapp3.1\03. Shoe Store.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\obj\Debug\netcoreapp3.1\03. Shoe Store.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\obj\Debug\netcoreapp3.1\03. Shoe Store.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\obj\Debug\netcoreapp3.1\03. Shoe Store.dll
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\obj\Debug\netcoreapp3.1\03. Shoe Store.pdb
+C:\Users\dimit\source\repos\ExamPreparation\03. Shoe Store\obj\Debug\netcoreapp3.1\03. Shoe Store.genruntimeconfig.cache
