@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\bin\Debug\netcoreapp3.1\03CustomQueue.exe
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\bin\Debug\netcoreapp3.1\03CustomQueue.deps.json
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\bin\Debug\netcoreapp3.1\03CustomQueue.runtimeconfig.json
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\bin\Debug\netcoreapp3.1\03CustomQueue.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\bin\Debug\netcoreapp3.1\03CustomQueue.dll
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\bin\Debug\netcoreapp3.1\03CustomQueue.pdb
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\obj\Debug\netcoreapp3.1\03CustomQueue.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\obj\Debug\netcoreapp3.1\03CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\obj\Debug\netcoreapp3.1\03CustomQueue.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\obj\Debug\netcoreapp3.1\03CustomQueue.AssemblyInfo.cs
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\obj\Debug\netcoreapp3.1\03CustomQueue.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\obj\Debug\netcoreapp3.1\03CustomQueue.dll
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\obj\Debug\netcoreapp3.1\03CustomQueue.pdb
+C:\Users\dimit\source\repos\CustomDataStructures\03CustomQueue\obj\Debug\netcoreapp3.1\03CustomQueue.genruntimeconfig.cache

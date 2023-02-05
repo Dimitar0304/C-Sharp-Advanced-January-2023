@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\bin\Debug\netcoreapp3.1\02CustomStack.exe
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\bin\Debug\netcoreapp3.1\02CustomStack.deps.json
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\bin\Debug\netcoreapp3.1\02CustomStack.runtimeconfig.json
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\bin\Debug\netcoreapp3.1\02CustomStack.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\bin\Debug\netcoreapp3.1\02CustomStack.dll
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\bin\Debug\netcoreapp3.1\02CustomStack.pdb
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\obj\Debug\netcoreapp3.1\02CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\obj\Debug\netcoreapp3.1\02CustomStack.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\obj\Debug\netcoreapp3.1\02CustomStack.AssemblyInfo.cs
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\obj\Debug\netcoreapp3.1\02CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\obj\Debug\netcoreapp3.1\02CustomStack.dll
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\obj\Debug\netcoreapp3.1\02CustomStack.pdb
+C:\Users\dimit\source\repos\CustomDataStructures\02CustomStack\obj\Debug\netcoreapp3.1\02CustomStack.genruntimeconfig.cache

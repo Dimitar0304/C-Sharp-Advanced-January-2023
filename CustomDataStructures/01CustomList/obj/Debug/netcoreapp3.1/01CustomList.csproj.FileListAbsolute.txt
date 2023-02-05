@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\bin\Debug\netcoreapp3.1\01CustomList.exe
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\bin\Debug\netcoreapp3.1\01CustomList.deps.json
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\bin\Debug\netcoreapp3.1\01CustomList.runtimeconfig.json
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\bin\Debug\netcoreapp3.1\01CustomList.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\bin\Debug\netcoreapp3.1\01CustomList.dll
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\bin\Debug\netcoreapp3.1\01CustomList.pdb
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\obj\Debug\netcoreapp3.1\01CustomList.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\obj\Debug\netcoreapp3.1\01CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\obj\Debug\netcoreapp3.1\01CustomList.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\obj\Debug\netcoreapp3.1\01CustomList.AssemblyInfo.cs
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\obj\Debug\netcoreapp3.1\01CustomList.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\obj\Debug\netcoreapp3.1\01CustomList.dll
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\obj\Debug\netcoreapp3.1\01CustomList.pdb
+C:\Users\dimit\source\repos\CustomDataStructures\01CustomList\obj\Debug\netcoreapp3.1\01CustomList.genruntimeconfig.cache
