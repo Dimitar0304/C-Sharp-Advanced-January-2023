@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\bin\Debug\netcoreapp3.1\2. Library Iterator.exe
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\bin\Debug\netcoreapp3.1\2. Library Iterator.deps.json
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\bin\Debug\netcoreapp3.1\2. Library Iterator.runtimeconfig.json
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\bin\Debug\netcoreapp3.1\2. Library Iterator.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\bin\Debug\netcoreapp3.1\2. Library Iterator.dll
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\bin\Debug\netcoreapp3.1\2. Library Iterator.pdb
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\obj\Debug\netcoreapp3.1\2. Library Iterator.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\obj\Debug\netcoreapp3.1\2. Library Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\obj\Debug\netcoreapp3.1\2. Library Iterator.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\obj\Debug\netcoreapp3.1\2. Library Iterator.AssemblyInfo.cs
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\obj\Debug\netcoreapp3.1\2. Library Iterator.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\obj\Debug\netcoreapp3.1\2. Library Iterator.dll
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\obj\Debug\netcoreapp3.1\2. Library Iterator.pdb
+C:\Users\dimit\source\repos\IteratorsAndComperators\2. Library Iterator\obj\Debug\netcoreapp3.1\2. Library Iterator.genruntimeconfig.cache
