@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.exe
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.dll
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.pdb
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.dll
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.pdb
+C:\Users\dimit\source\repos\ExamPreparation\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.genruntimeconfig.cache
