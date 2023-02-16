@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\dimit\source\repos\ExamPreparation\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache
