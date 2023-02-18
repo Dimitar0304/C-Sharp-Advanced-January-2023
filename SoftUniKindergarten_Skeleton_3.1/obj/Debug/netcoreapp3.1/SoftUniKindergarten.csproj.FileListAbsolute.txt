@@ -1,0 +1,14 @@
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\bin\Debug\netcoreapp3.1\SoftUniKindergarten.exe
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\bin\Debug\netcoreapp3.1\SoftUniKindergarten.deps.json
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\bin\Debug\netcoreapp3.1\SoftUniKindergarten.runtimeconfig.json
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\bin\Debug\netcoreapp3.1\SoftUniKindergarten.runtimeconfig.dev.json
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\bin\Debug\netcoreapp3.1\SoftUniKindergarten.dll
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\bin\Debug\netcoreapp3.1\SoftUniKindergarten.pdb
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\obj\Debug\netcoreapp3.1\SoftUniKindergarten.csproj.AssemblyReference.cache
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\obj\Debug\netcoreapp3.1\SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\obj\Debug\netcoreapp3.1\SoftUniKindergarten.AssemblyInfoInputs.cache
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\obj\Debug\netcoreapp3.1\SoftUniKindergarten.AssemblyInfo.cs
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\obj\Debug\netcoreapp3.1\SoftUniKindergarten.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\obj\Debug\netcoreapp3.1\SoftUniKindergarten.dll
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\obj\Debug\netcoreapp3.1\SoftUniKindergarten.pdb
+C:\Users\dimit\Downloads\SoftUniKindergarten_Skeleton_3.1\obj\Debug\netcoreapp3.1\SoftUniKindergarten.genruntimeconfig.cache
