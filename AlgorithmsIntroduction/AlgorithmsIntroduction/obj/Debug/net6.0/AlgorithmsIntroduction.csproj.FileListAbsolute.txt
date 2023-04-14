@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\bin\Debug\net6.0\AlgorithmsIntroduction.exe
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\bin\Debug\net6.0\AlgorithmsIntroduction.deps.json
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\bin\Debug\net6.0\AlgorithmsIntroduction.runtimeconfig.json
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\bin\Debug\net6.0\AlgorithmsIntroduction.dll
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\bin\Debug\net6.0\AlgorithmsIntroduction.pdb
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\AlgorithmsIntroduction.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\AlgorithmsIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\AlgorithmsIntroduction.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\AlgorithmsIntroduction.AssemblyInfo.cs
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\AlgorithmsIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\AlgorithmsIntroduction.dll
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\refint\AlgorithmsIntroduction.dll
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\AlgorithmsIntroduction.pdb
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\AlgorithmsIntroduction.genruntimeconfig.cache
+C:\Users\dimit\source\repos\AlgorithmsIntroduction\AlgorithmsIntroduction\obj\Debug\net6.0\ref\AlgorithmsIntroduction.dll
